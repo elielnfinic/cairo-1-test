@@ -22,3 +22,12 @@ python3.9 -m venv ~/cairo_venv
 source ~/cairo_venv/bin/activate
 ```
 
+## Smart contract
+
+```
+Sending the transaction with max_fee: 0.000301 ETH (301126807205686 WEI).
+Invoke transaction for contract deployment was sent.
+Contract address: 0x0060495dcc7005d1be753df0037b01c338b934f28e2a92622113bb935e34636c
+Transaction hash: 0x319ca3de6ba72c4fdbfd081bbbc8c3cbed37929c4e7946736c3d8089b02714
+```
+

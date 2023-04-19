@@ -6,7 +6,6 @@ mod SimpleStorage {
 
     #[event]
     fn BalanceIncreased(balance: felt252){
-
     }
 
     #[external]
